@@ -1,0 +1,51 @@
+
+/* page colors */
+p{color:rgb(153, 150, 150);}
+
+h1{color:rgb(153, 150, 150);}
+
+h2{color:rgb(153, 150, 150)}
+
+
+li{color:rgb(153, 150, 150);}
+
+
+a{color:rgb(153, 150, 150);}
+
+a:hover{color:rgb(217, 231, 14);}
+
+table{color:rgb(153, 150, 150);}
+
+td{color:rgb(153, 150, 150);}
+
+tr {color:rgb(153, 150, 150);}
+
+body{background-color: rgb(29, 28, 28);}
+
+/* navigation */
+nav ul{text-align: center;}
+
+nav li{display:inline;}
+
+
+  /*forms */      
+form p{text-align: center;
+    margin-right: 25px;}
+form textarea{vertical-align: middle;}
+
+button{background-color:aquamarine;
+        padding: 10px;
+        border: 5px solid rgb(153, 150, 150);
+        }
+
+
+button:hover{color:rgb(231, 112, 14);}
+
+/*footer*/
+
+footer{color:rgb(153, 150, 150);
+        background-color: rgba(161, 15, 15, 0.644);
+        text-align: center;
+        padding: 1px;}
+
+
