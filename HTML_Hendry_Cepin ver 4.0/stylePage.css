@@ -1,0 +1,71 @@
+
+
+/*Centering*/
+
+h1{text-align: center;}
+
+/* page colors */
+
+a {color:rgb(0, 0, 0)}
+a:hover{color: blue;}
+nav a:active{background-color: beige}
+
+td a{color:blue}
+
+
+body{background-color: beige;}
+
+.currentpage{background-color: red;}
+
+
+ /*Navigation*/
+
+ nav ul{text-align: center;}
+
+  nav li{ box-sizing:content-box;
+        text-align: center;
+        width:100px;
+        height:25px;
+        margin:20px;
+        display:inline-block;
+        background-color: beige;
+        border: 5px inset red
+  }
+
+
+
+
+
+
+
+/*Table*/
+
+        table{margin: auto;}
+
+
+
+  
+        
+  /*forms */     
+
+form p{text-align: center;}
+form textarea{vertical-align: middle;}
+
+button{background-color:red;
+        padding: 10px;}
+
+
+button:hover{background-color:rgb(161, 15, 15, 0.644);
+                color:beige}
+
+ 
+
+/*footer*/
+
+footer{color:rgb(0, 0, 0);
+        background-color: rgba(161, 15, 15, 0.644);
+        text-align: center;
+        padding: 1px;
+        margin:25px;}
+
+
